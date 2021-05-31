@@ -1,9 +1,9 @@
 [![CRAN version](https://img.shields.io/cran/v/grpCox?logo=R)](https://cran.r-project.org/web/packages/L1mstate/index.html)
 [![downloads](https://cranlogs.r-pkg.org/badges/L1mstate)](https://cran.r-project.org/package=L1mstate)
 
-# [L1-Regularized Multi-State Models](https://cran.r-project.org/web/packages/grpCox/index.html)
+# [L1-Regularized Multi-State Models](https://cran.r-project.org/web/packages/L1mstate/index.html)
 
-`grpCox` is an R package fitting the regularization path of the L1-regularized multi-state models since they can exploit sparsity structure of input. 
+`L1mstate` is an R package fitting the regularization path of the L1-regularized multi-state models since they can exploit sparsity structure of input. 
 Different tuning regularization parameter methods are provided. The cumulative hazard rate estimation and the transition probability predictions can be made from the fitted models.
 
 

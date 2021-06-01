@@ -1,6 +1,10 @@
-[![CRAN version](https://img.shields.io/cran/v/grpCox?logo=R)](https://cran.r-project.org/web/packages/L1mstate/index.html)
+[![CRAN version](https://img.shields.io/cran/v/L1mstate?logo=R)](https://cran.r-project.org/web/packages/L1mstate/index.html)
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/L1mstate)](http://www.r-pkg.org/pkg/L1mstate)
 [![downloads](https://cranlogs.r-pkg.org/badges/L1mstate)](https://cran.r-project.org/package=L1mstate)
+
+[![CRAN version](https://img.shields.io/cran/v/SGL?logo=R)](https://cran.r-project.org/web/packages/SGL/index.html)
+[![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/SGL)](http://www.r-pkg.org/pkg/SGL)
+[![downloads](https://cranlogs.r-pkg.org/badges/SGL)](https://cran.r-project.org/package=SGL)
 
 # [L1-Regularized Multi-State Models](https://cran.r-project.org/web/packages/L1mstate/index.html)
 

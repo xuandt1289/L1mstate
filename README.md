@@ -1,3 +1,9 @@
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# L1mstate <img src="man/figures/logo.png" width = "175" height = "200" align="right" />
+
+<!-- badges: start -->
+
 [![CRAN version](https://img.shields.io/cran/v/L1mstate?logo=R)](https://cran.r-project.org/web/packages/L1mstate/index.html)
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/L1mstate)](http://www.r-pkg.org/pkg/L1mstate)
 [![downloads](https://cranlogs.r-pkg.org/badges/L1mstate)](https://cran.r-project.org/package=L1mstate)

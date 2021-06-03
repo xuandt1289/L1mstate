@@ -2,6 +2,10 @@
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/L1mstate)](http://www.r-pkg.org/pkg/L1mstate)
 [![downloads](https://cranlogs.r-pkg.org/badges/L1mstate)](https://cran.r-project.org/package=L1mstate)
 
+[![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/officer)](http://www.r-pkg.org/pkg/officer)
+[![downloads](https://cranlogs.r-pkg.org/badges/officer)](https://cran.r-project.org/package=officer)
+
+
 # [L1-Regularized Multi-State Models](https://cran.r-project.org/web/packages/L1mstate/index.html)
 
 `L1mstate` is an R package fitting the regularization path of the L1-regularized multi-state models since they can exploit sparsity structure of input. 

@@ -2,12 +2,6 @@
 [![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/L1mstate)](http://www.r-pkg.org/pkg/L1mstate)
 [![downloads](https://cranlogs.r-pkg.org/badges/L1mstate)](https://cran.r-project.org/package=L1mstate)
 
-[![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/officer)](http://www.r-pkg.org/pkg/officer)
-[![downloads](https://cranlogs.r-pkg.org/badges/officer)](https://cran.r-project.org/package=officer)
-
-[![CRAN RStudio mirror overall downloads](http://cranlogs.r-pkg.org/badges/grand-total/ggiraph)](http://www.r-pkg.org/pkg/ggiraph)
-[![downloads](https://cranlogs.r-pkg.org/badges/ggiraph)](https://cran.r-project.org/package=ggiraph)
-
 
 # [L1-Regularized Multi-State Models](https://cran.r-project.org/web/packages/L1mstate/index.html)
 

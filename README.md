@@ -23,3 +23,10 @@ Different tuning regularization parameter methods are provided. The cumulative h
 ### Details of the algorithms used
 
 * X Dang, S Huang, X Qian (2020) Risk Factor Identification in Heterogeneous Disease Progression with L1-Regularized Multi-state Models.  *Journal of Healthcare Informatics Research.*
+
+### Contact  
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* GitHub: [xuandt89](https://github.com/xuandt1289)
+* LinkedIn: [xuandt89](https://www.linkedin.com/in/xuandt/)
